@@ -3,7 +3,7 @@
     "symbol": "MCT",
     "description": "A token used for trading multiple commodities",
     "seller_fee_basis_points": 500,  
-    "image": https://raw.githubusercontent.com/z01-ai/mct/main/mct_logo.png",
+    "image": "https://raw.githubusercontent.com/z01-ai/mct/main/mct_logo.png",
     "attributes": [
         {
             "trait_type": "Rarity",
