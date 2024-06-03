@@ -1,0 +1,13 @@
+{
+    "name": "Multiple Commodity Token",
+    "symbol": "MCT",
+    "description": "A token used for trading multiple commodities",
+    "seller_fee_basis_points": 500,  // Optional - 5% royalties on secondary sales
+    "image": "https://github.com/z01-ai/mct/blob/a3ad3c3653f91e2b418e3d9d2ebc01b0b9753fe3/mct_logo.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Super Rare"
+        }
+    ]
+}
